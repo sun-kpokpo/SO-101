@@ -1,0 +1,17 @@
+.vscode/
+
+__pycache__/
+
+# Environnement et secrets
+.env
+*.local
+
+# Fichiers système et logs
+.DS_Store
+*.log
+
+# Fichiers lourds et données
+datasets/
+models/
+*.tar
+*.tar.gz
